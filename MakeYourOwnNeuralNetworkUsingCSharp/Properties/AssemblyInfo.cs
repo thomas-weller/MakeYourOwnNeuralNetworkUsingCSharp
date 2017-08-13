@@ -1,5 +1,14 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿// ************************************************************************************************
+// <copyright file="AssemblyInfo.cs">
+//   Copyright (c) 2017 Thomas Weller
+// </copyright>
+// <authors>
+//   <author>Thomas Weller</author>
+// </authors>
+// <summary/>
+// ************************************************************************************************
+
+using System.Reflection;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
