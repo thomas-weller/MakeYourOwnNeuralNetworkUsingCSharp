@@ -1,0 +1,1 @@
+C# version of the code from the book 'Make Your Own Neural Network' by Tariq Rashid.(https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/ part2_neural_network_mnist_data.ipynb). The original code is written in Python.
