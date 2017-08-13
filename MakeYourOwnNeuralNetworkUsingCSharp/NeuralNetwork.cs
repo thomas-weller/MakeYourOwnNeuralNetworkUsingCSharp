@@ -23,7 +23,7 @@ namespace MakeYourOwnNeuralNetworkUsingCSharp
 {
     public class NeuralNetwork
     {
-        public readonly int InputNodes;
+        public readonly int InputNodes; 
         public readonly int HiddenNodes;
         public readonly int OutputNodes;
 
